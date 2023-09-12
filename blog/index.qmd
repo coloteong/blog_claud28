@@ -1,0 +1,6 @@
+---
+title: "blog"
+---
+
+This is for my Master's in Data Science (Computational Linguistics) course. I am currently studying in UBC and it is my second week here :)
+
